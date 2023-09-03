@@ -1,0 +1,14 @@
+Variables:
+
+Solvencia: Es la relación entre patrimonio sobre activos y evalua la capacidad de los bancos de cumplir con sus obligaciones financieras. Los bancos en Colombia deben tener su solvencia por encima del 9%.
+IRL: Es el requisito según el cual los bancos deben mantener una cantidad de activos líquidos de alta calidad suficiente para financiar las salidas de efectivo durante 30 días. El mínimo regulatorio en Colombia es 100%. 	
+Cartera/Depósitos: Esta variable da pistas sobre la ocurrencia de un auge crediticio. También establece el grado en que se utilizan los recursos internos del banco para la colocación de crédito.	
+Cartera/Activos: Indica el grado de exposición de los bancos al riesgo crediticio.	
+Gast_Op/Activos: Mide la eficiencia del banco en términos de costos.	
+ROA: Ratio entre utilidad y activos	
+ROE: Ratio entre utilidad y patrimonio	
+Calidad: Cartera vencida (incumplimiento de pago de los deudores) sobre cartera total. Entre más alto el indicador peor es la salud financiera del banco. 	
+Utilidad/ingresos: Cuanto mayor sea su valor, más rentable es el banco.	
+
+Fuente: SuperFinanciera		
+Corte: última información disponible mayo de 2023
